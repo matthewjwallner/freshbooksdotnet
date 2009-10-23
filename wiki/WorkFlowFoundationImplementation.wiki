@@ -3,7 +3,7 @@
 
 = Introduction =
 
-I've started a new Workflow Foundation Template Project that will allow you to create a co-dependence of external events on recurrent payments and batch invoice sent.
+I've started a new Workflow Foundation Template Project that will allow you to create a co-dependence of external events on recurrent invoice generation and batch invoice sent.
 
 = Details =
 
