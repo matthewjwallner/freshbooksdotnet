@@ -1,0 +1,12 @@
+#summary Workflow Foundation template for freshbooks api.
+#labels csharp,dotnet,Phase-Design,workflowfoundation,wcf,dotnet35
+
+= Introduction =
+
+I've started a new Workflow Foundation Template Project that will allow you to create a co-dependence of external events on recurrent payments and batch invoice sent.
+
+= Details =
+
+- Any ideas are always welcome
+- Events Considered for Recurring invoices and cancellations of them- realtime or delayed.
+- Generation of each Activity to Sharepoint and any WorkFlow Activity. 
