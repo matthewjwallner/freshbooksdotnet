@@ -1,0 +1,1 @@
+This project allows you to create, update or send invoices, clients on the billing platform of Freshbooks (TM) using .net and c# but can easy compiled with mono framework.
